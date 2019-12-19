@@ -1,0 +1,44 @@
+{
+    "name": "The Cancer",
+    "description": "<p><span>CancerAPI.org is the home of CANAPI, a platform for building applications focused on helping users find, follow and share information about emerging innovations in the fight against cancer<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/canapi-logo.png",
+    "tags": [
+        "have api",
+        "healthcare"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/the-cancer\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "The Cancer",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/canapi-logo.png",
+            "humanURL": "http:\/\/cancerapi.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/the-cancer-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.cancerapi.org\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.cancerapi.org\/feed\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/cancerapi.org\/"
+        }
+    ]
+}
